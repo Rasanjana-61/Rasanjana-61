@@ -1,18 +1,145 @@
-<h1>Hi 👋, I'm Pramod rasanjana</h1>
-<p>A passionate frontend developer from </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasanjana-61&show_icons=true&locale=en" alt="Rasanjana-61" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasanjana-61&" alt="Rasanjana-61" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rasanjana-61&show_icons=true&locale=en&layout=compact" alt="Rasanjana-61" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rasanjana-61" alt="Rasanjana-61" /></a></p>
+# 👋 Hi, I'm Pramod Rasanjana
+
+### 💻 Information Technology Undergraduate | MERN Stack Developer | Junior Software Engineer
+
+Welcome to my GitHub profile! I'm an enthusiastic IT undergraduate passionate about building modern web applications, learning new technologies, and solving real-world problems through software development.
+
+---
+
+## 🚀 About Me
+
+- 🎓 BSc (Hons) in Information Technology Student
+- 🌱 Currently learning Full Stack Web Development
+- 💻 Junior MERN Stack Developer
+- 📚 Interested in Software Engineering, UI/UX, Database Systems, and Web Technologies
+- 🤝 Always willing to learn and collaborate on exciting projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Tailwind CSS
+- DaisyUI
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Programming Languages
+- JavaScript
+- Java
+- Python
+- C
+- C++
+
+### Tools & Technologies
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- MongoDB Atlas
+- Figma
+- Vite
+- npm
+
+---
+
+# 📂 Featured Project
+
+## 🏭 Automated Garment Management System
+
+A Full Stack MERN application developed to manage garment factory operations efficiently.
+
+### 👨‍💻 My Responsibility
+
+**Finance Management Module**
+
+### Features
+
+- 💰 Expense Management
+- 📈 Income Tracking
+- 🧾 Invoice Management
+- 📊 Financial Dashboard
+- 📉 Profit & Loss Reports
+- 💵 Salary Management
+- 📅 Monthly Financial Reports
+- 🔍 Search & Filter Records
+
+### Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Chart.js
+
+---
+
+## 📚 Currently Learning
+
+- Advanced MERN Stack
+- REST API Development
+- UI/UX Design
+- Software Architecture
+- Cloud Computing
+- Git & GitHub Best Practices
+
+---
+
+## 🎯 Goals
+
+- Become a Professional Full Stack Developer
+- Build Real-World Software Solutions
+- Contribute to Open Source Projects
+- Learn Modern Software Engineering Practices
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: your.email@example.com
+
+---
+
+## 💡 Quote
+
+> "Learning never exhausts the mind. Every project is another opportunity to grow."
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
