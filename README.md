@@ -40,26 +40,6 @@ I'm passionate about building modern web applications and continuously improving
 - Postman
 - Figma
 
-## Featured Project
-
-### Automated Garment Management System
-
-Finance Management Module built using the MERN Stack.
-
-**Features**
-
-- Expense Management
-- Income Tracking
-- Salary Management
-- Financial Dashboard
-- Reports & Analytics
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rasanjana-61&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasanjana-61&layout=compact&hide_border=true&theme=transparent" />
-</p>
 
 ## Connect
 
